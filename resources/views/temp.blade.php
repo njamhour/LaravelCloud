@@ -75,6 +75,20 @@
                         <td></td>
                 </tr>
 
+                <tr>
+                    <td>FreeBTC</td>
+                    <td>BTC</td>
+                    <td>https://freebitco.in/?r=4129866</td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td>Eobot</td>
+                    <td>Multi</td>
+                    <td>https://www.eobot.com/user/2347383</td>
+                    <td></td>
+                </tr>
+
 	</table>
 
 
