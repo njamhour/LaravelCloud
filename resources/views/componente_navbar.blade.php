@@ -10,7 +10,7 @@
         <a class="nav-link" href="/">Home </a>
       </li>
       <li @if($current=="programas") class="nav-item active" @else class="nav-item" @endif>
-        <a class="nav-link" href="jamhourcloud.ddns.net">NextCloud</a>
+        <a class="nav-link" href="http://jamhourcloud.ddns.net">NextCloud</a>
       </li>
       <li @if($current=="estudos") class="nav-item active" @else class="nav-item" @endif>
         <a class="nav-link" href="/estudos">Estudos</a>
